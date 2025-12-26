@@ -1,3 +1,6 @@
+# EMSphere: Open-Source Ecological Monitoring Toolkit
+# Copyright (c) 2025, Elizabeth-Mary Nkonyeasua Omoregie
+# DOI: 10.5281/zenodo.11097725
 # EMSphere: Open-Source Ecological Monitoring Toolkit  
 > *Sovereign, community-governed diagnostics for tropical freshwater resilience*  
 
