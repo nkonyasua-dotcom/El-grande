@@ -1,0 +1,15 @@
+emsphere/
+├── app.py                # Main Streamlit app
+├── src/
+│   ├── imii.py           # IMII calculation core
+│   ├── ciep.py           # CIEP bloom forecasting
+│   └── utils.py
+├── data/
+│   └── sample_data.csv   # 5-row anonymized Oyan demo
+├── tests/
+│   └── test_imii.py
+├── requirements.txt
+├── Dockerfile
+├── LICENSE               # ✅ MIT or Apache 2.0 (open, commercial-friendly)
+├── README.md             # ⬇️ See template below
+└── CITATION.cff          # For Zenodo auto-archiving
